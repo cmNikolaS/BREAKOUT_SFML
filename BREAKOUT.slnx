@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BREAKOUT/BREAKOUT.vcxproj" Id="91a98b89-78a5-4b08-a63a-9aa371c3a619" />
+</Solution>
